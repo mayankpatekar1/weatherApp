@@ -1,6 +1,6 @@
 import React from 'react';
 import cities from "../lib/city.list.json";
-import Link from "next/Link";
+import Link from "next/link";
 import Router from 'next/router';
 
 export default function SearchBox({placeholder}){
